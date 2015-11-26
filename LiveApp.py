@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding=utf=8
+#coding=utf-8
 
 # Todo：接口自动化测试
 # Author：归根落叶
